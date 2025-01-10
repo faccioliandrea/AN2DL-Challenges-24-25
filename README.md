@@ -27,7 +27,7 @@ The dataset contains **13,759 images** of size **96x96 pixels** in RGB format.
 
 ✅ Score: 5.5/5.5
 
-## 🪐 Martian Terrain Semantic Segmentation 🛸
+## 🪐 Challenge 2: Martian Terrain Semantic Segmentation 🛸
 
 ### 📋 Project Overview
 
